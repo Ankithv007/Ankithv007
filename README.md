@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there! 👋 I'm Ankith B V
 
-<!--
-**Ankithv007/Ankithv007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I’m a passionate **DevOps Engineer** eager to dive deeper into the world of **cloud technologies**, **automation**, and **CI/CD pipelines**.
 
-Here are some ideas to get you started:
+### 🚀 About Me
+- 🔭 I’m currently expanding my skills in **DevOps tools** like Docker, Kubernetes, Jenkins, and AWS.
+- 🌱 I’m learning to streamline development processes through automation and infrastructure as code (IaC).
+- 💼 Actively seeking a **DevOps Engineer** role where I can contribute, learn, and grow.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ankithbv) | [Email](mailto:ankithbv007@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technical Skills
+- **Version Control**: Git, GitHub
+- **CI/CD**: Jenkins, GitHub Actions
+- **Containers & Orchestration**: Docker, Kubernetes
+- **Cloud Platforms**: AWS
+- **Monitoring & Logging**: Prometheus, Grafana
+- **Configuration Management**: Ansible
+- **Programming/Scripting**: Python, Bash
+
+### 📊 GitHub Stats
+![Ankith's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ankithv007&show_icons=true&theme=radical)
+
+### 🤝 Let's Connect
+If you’re looking for a motivated DevOps Engineer to join your team or want to collaborate on exciting projects, feel free to reach out!
