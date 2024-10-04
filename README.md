@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Ankith B V
 
 Welcome to my GitHub profile! I’m a passionate **DevOps Engineer** eager to dive deeper into the world of **cloud technologies**, **automation**, and **CI/CD pipelines**.
-
+<div align="center"> <img src="https://github.com/Ankithv007/Kubernetes/blob/main/images/megaproject-image/Final%20Output/Untitled%20design.jpg"> </div>
 ### 🚀 About Me
 - 🔭 I’m currently expanding my skills in **DevOps tools** like Docker, Kubernetes, Jenkins, and AWS.
 - 🌱 I’m learning to streamline development processes through automation and infrastructure as code (IaC).
