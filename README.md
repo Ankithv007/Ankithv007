@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I’m a passionate **DevOps Engineer** eager to dive deeper into the world of **cloud technologies**, **automation**, and **CI/CD pipelines**.
 
-<div align="center"> <img src="https://github.com/Ankithv007/Kubernetes/blob/main/images/megaproject-image/Final%20Output/Untitled%20design.jpg"> </div>
+<div align="center"> <img src="https://github.com/Ankithv007/Kubernetes/blob/main/images/megaproject-image/Final%20Output/github%20banner.png"> </div>
 
 
 
