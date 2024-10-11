@@ -21,8 +21,7 @@ Welcome to my GitHub profile! I’m a passionate **DevOps Engineer** eager to di
 - **Configuration Management**: Ansible
 - **Programming/Scripting**: Python, Bash
 
-### 📊 GitHub Stats
-![Ankith's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ankithv007&show_icons=true&theme=radical)
+
 
 ### 🤝 Let's Connect
 If you’re looking for a motivated DevOps Engineer to join your team or want to collaborate on exciting projects, feel free to reach out!
